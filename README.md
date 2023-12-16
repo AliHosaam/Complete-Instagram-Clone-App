@@ -40,11 +40,4 @@ Our Instagram clone goes beyond the basics, offering a plethora of features that
 InstaClone is designed to be versatile, ensuring a consistent and delightful user experience across iOS and Android devices.
 
 
-🚀 Future-Ready:
 
-Our development team is committed to continuous improvement, ensuring that InstaClone evolves alongside emerging technologies and user expectations.
-
-
-📱 Experience InstaClone Today:
-
-Witness the future of social media with InstaClone. Immerse yourself in the seamless blend of cutting-edge technology and an intuitive user interface. Download and explore the application that redefines the Instagram experience.
